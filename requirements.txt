@@ -11,7 +11,7 @@ lxml==3.5.0
 ode==0.1.2
 onboard==1.2.0
 pexpect==4.0.1
-Pillow==5.1.0
+Pillow==8.2.0
 plotly==2.7.0
 ptyprocess==0.5
 pycups==1.9.73
